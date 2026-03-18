@@ -13,6 +13,7 @@ The developers or publishers of these open source Operating Systems have decided
 | &nbsp; | Operating System | Notes |
 | - | - | - |
 | :no_entry: | **Midnight BSD** | [License forbids usage in Brazil, California](https://github.com/MidnightBSD/src?tab=License-1-ov-file) |
+| :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
 
 ### Operating Systems Which Have Already Implemented Age Verification
 
