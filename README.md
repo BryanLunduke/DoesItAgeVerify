@@ -54,6 +54,12 @@ As of the most recent update to this document, no known Open Source Operating Sy
 
 Age verification is not limited to full Operating Systems. System-level components and desktop infrastructure projects are also beginning to implement or plan support for age verification.
 
+### Software With Ongoing Discussions (No Decision Yet)
+
+| &nbsp; | Software | Notes |
+| - | - | - |
+| :speech_balloon: | **F-Droid** | No official statement on California AB-1043, Brazil Lei 15.211, or Colorado SB26-051; internal GitLab issues discuss segregating adult content to a separate repository; [forum thread on EU age verification laws](https://forum.f-droid.org/t/european-internet-age-verification-law/33098); legal analysis suggests F-Droid may fall outside scope as a nonprofit FOSS project; broader [legal resilience initiative](https://f-droid.org/2025/08/04/strengthening-f-droids-legal-resilience-introducing-the-research-series.html) underway; notably F-Droid published an [open letter opposing Google's mandatory developer identity verification](https://f-droid.org/en/2026/02/24/open-letter-opposing-developer-verification.html) requirement (effective September 2026) — if Google enforces identity verification for all Android developers, age verification for app distribution may become redundant as developer identity would already be established |
+
 ### Software Planning to Implement Age Verification
 
 | &nbsp; | Software | Notes |
@@ -122,8 +128,9 @@ Both major mobile OS vendors have already shipped age verification APIs at the O
 
 ---
 
-### Messaging Apps With No Public Statement
+### Messaging Apps With Ongoing Discussions
 
 | &nbsp; | App | Notes |
 | - | - | - |
 | :speech_balloon: | **Signal** | No official statement on California AB-1043, Brazil Lei 15.211, or Colorado SB26-051; only existing requirement is a 13+ minimum age in Terms of Service; no age verification features found in public repositories |
+| :speech_balloon: | **Matrix** | [Blog post (February 2026)](https://matrix.org/blog/2026/02/welcome-discord/) — acknowledges laws are legally binding and must be followed; Safety team and DPO evaluating privacy-preserving compliance options; notes Matrix's decentralized nature allows individual server operators to make their own assessments; no implementation announced |
