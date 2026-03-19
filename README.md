@@ -17,6 +17,7 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **Omarchy Linux** | [Developer statement](https://x.com/lundukejournal/status/2029580164498108846) |
 | :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
 | :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://x.com/lundukejournal/status/2032951803134837237) |
+| :no_entry: | **Artix Linux** | [Developer statement](https://forum.artixlinux.org/index.php/topic,9304.msg55607.html#msg55607)
 
 ### Operating Systems Planning to Implement Age Verification
 
