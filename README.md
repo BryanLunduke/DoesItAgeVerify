@@ -27,6 +27,7 @@ The developers or publishers of these Open Source Operating Systems have made pl
 | :building_construction: | **Ubuntu** | [Planning Discussion](https://lists.ubuntu.com/archives/ubuntu-devel/2026-March/043510.html), [Ubuntu VP Statement](https://x.com/lundukejournal/status/2029198322309681311) |
 | :building_construction: | **Pop!_OS** | [System76 Statement opposing, but planning to implement](https://blog.system76.com/post/system76-on-age-verification) |
 | :building_construction: | **elementary OS** | [Founder Statement planning to implement](https://mastodon.social/@danirabbit@mastodon.online/116250766314705297) |
+| 🏗️ | **Whonix** | [Founder Statement planning to implement](https://www.kicksecure.com/wiki/Age-api)
 
 ### Operating Systems Which Have Already Implemented Age Verification
 
