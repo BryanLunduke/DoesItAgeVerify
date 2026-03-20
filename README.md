@@ -64,6 +64,7 @@ Age verification is not limited to full Operating Systems. System-level componen
 
 | &nbsp; | Software | Notes |
 | - | - | - |
+| :building_construction: | **AccountsService** | [MR: Add BirthDate with polkit-gated GetBirthDate and SetBirthDate methods](https://gitlab.freedesktop.org/accountsservice/accountsservice/-/merge_requests/176) — stores birth date in `/var/lib/AccountsService/users/`; reading is gated by polkit (`org.freedesktop.accounts.read-own-protected-data`), writing requires `org.freedesktop.accounts.user-administration`; uses same YYYY-MM-DD validation as systemd PR #40954; MR open |
 | :building_construction: | **XDG Desktop Portal** | [Draft PR: Add parental controls to the Accounts portal](https://github.com/flatpak/xdg-desktop-portal/pull/1922) — proposes an age verification API allowing apps to query age ranges rather than exact birth dates; discussion thread locked by maintainers (March 10, 2026), further comments restricted to collaborators only |
 | :building_construction: | **archinstall** | [PR: Add required birth date field to user creation](https://github.com/archlinux/archinstall/pull/4290) — by the same author as the systemd birthDate PR; stores birth date in a systemd userdb drop-in at `/etc/userdb/<user>.user` during Arch installation; PR open but discussion locked as "too heated"; maintainer (Torxed) awaiting an official organizational stance from Arch Linux before merging |
 
