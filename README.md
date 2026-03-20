@@ -19,7 +19,7 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
 | :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
 | :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://x.com/lundukejournal/status/2032951803134837237) |
-
+| :no_entry: | **HyraxOS** | [Age Verification is not wholesome](https://hyraxos.weebly.com/age.html) |
 ### Operating Systems Planning to Implement Age Verification
 
 The developers or publishers of these Open Source Operating Systems have made plans and/or statements that they intend to comply with new Age Verification laws.  But, as yet, that Age Verfication functionality is not fully implemented.
