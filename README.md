@@ -19,6 +19,7 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
 | :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
 | :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://x.com/lundukejournal/status/2032951803134837237) |
+| :no_entry: | **Vendefoul Wolf Linux** | [Developer statement](https://x.com/vendefoulwolf/status/2035298946554180032) |
 | :speech_balloon: | **Bazzite** | Brazil block was applied by mistake and not intentional; [official clarification on X](https://x.com/bazzite_gg/status/2034286537723007222); no official position on age verification adopted |
 
 ### Operating Systems Planning to Implement Age Verification
@@ -30,7 +31,6 @@ The developers or publishers of these Open Source Operating Systems have made pl
 | :building_construction: | **Ubuntu** | [Planning Discussion](https://lists.ubuntu.com/archives/ubuntu-devel/2026-March/043510.html), [Ubuntu VP Statement](https://x.com/lundukejournal/status/2029198322309681311) |
 | :building_construction: | **Pop!_OS** | [System76 Statement opposing, but planning to implement](https://blog.system76.com/post/system76-on-age-verification) |
 | :building_construction: | **elementary OS** | [Founder Statement planning to implement](https://mastodon.social/@danirabbit@mastodon.online/116250766314705297) |
-| :building_construction: | **Midnight BSD** | [License temporarily forbids usage in Brazil, California](https://github.com/MidnightBSD/src?tab=License-1-ov-file), [until implementation finished](https://x.com/midnightbsd/status/2030992394703732872) |
 | :building_construction: | **Whonix / Kicksecure** | [Forum discussion](https://forums.whonix.org/t/whonix-adding-age-verification/22969) — actively investigating compliance while prioritizing privacy; researching age-bracket API approach that avoids storing full birth dates; no implementation yet, team committed to announcing before any changes affect users |
 
 ### Operating Systems With Ongoing Discussions (No Decision Yet)
@@ -46,7 +46,9 @@ The developers or publishers of these Operating Systems have active community or
 
 ### Operating Systems Which Have Already Implemented Age Verification
 
-As of the most recent update to this document, no known Open Source Operating Systems have fully complied with legal Age Verification requirements for Brazil or California.
+| &nbsp; | Operating System | Notes |
+| - | - | - |
+| :white_check_mark: | **MidnightBSD** | [Age verification daemon added](https://github.com/MidnightBSD/src/commit/6e4e5dfb3270f05d35e2c24bf152662c30acbdf7) — `ageverifd` daemon committed to the base system; previously had [license temporarily forbidding usage in Brazil and California](https://github.com/MidnightBSD/src?tab=License-1-ov-file) [until implementation finished](https://x.com/midnightbsd/status/2030992394703732872) |
 
 ---
 
@@ -79,6 +81,12 @@ Age verification is not limited to full Operating Systems. System-level componen
 ## Mobile Operating Systems
 
 Both major mobile OS vendors have already shipped age verification APIs at the OS and App Store levels.
+
+### Mobile Operating Systems Not Implementing Age Verification
+
+| &nbsp; | OS | Notes |
+| - | - | - |
+| :no_entry: | **GrapheneOS** | [Developer statement](https://x.com/GrapheneOS/status/2034957604682621229) |
 
 ### Mobile OS Which Have Already Implemented Age Verification
 
