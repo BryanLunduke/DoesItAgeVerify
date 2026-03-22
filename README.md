@@ -21,6 +21,7 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
 | :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
 | :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://x.com/lundukejournal/status/2032951803134837237) |
+| :no_entry: | **Slackware** | [Developer statement]([https://x.com/lundukejournal/status/2032951803134837237](https://www.linuxquestions.org/questions/slackware-14/how-is-ab-1043-going-to-impact-slackware-4175762747/page5.html#post6626190)) |
 
 ### Operating Systems Planning to Implement Age Verification
 
