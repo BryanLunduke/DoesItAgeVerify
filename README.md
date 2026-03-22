@@ -21,6 +21,7 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
 | :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
 | :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://x.com/lundukejournal/status/2032951803134837237) |
+| :no_entry: | **Gentoo Linux** | [Gentoo it's not an operating system itself](https://forums.gentoo.org/viewtopic-t-1176994-postdays-0-postorder-asc-start-0.html) |
 
 ### Operating Systems Planning to Implement Age Verification
 
