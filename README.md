@@ -20,6 +20,7 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
 | :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://x.com/lundukejournal/status/2032951803134837237) |
 | :no_entry: | **Vendefoul Wolf Linux** | [Developer statement](https://x.com/vendefoulwolf/status/2035298946554180032) |
+| :no_entry: | **Adenix GNU/Linux** | [Developer statement opposing age verification](https://www.adenixgnulinux.org/) — founder also posted to the [Debian debian-legal mailing list](https://lists.debian.org/debian-legal/2026/03/msg00022.html) requesting mechanisms to remove age verification packages and blacklist affected regions; raises constitutional and free speech concerns |
 | :speech_balloon: | **Bazzite** | Brazil block was applied by mistake and not intentional; [official clarification on X](https://x.com/bazzite_gg/status/2034286537723007222); no official position on age verification adopted |
 
 ### Operating Systems Planning to Implement Age Verification
@@ -43,6 +44,7 @@ The developers or publishers of these Operating Systems have active community or
 | :speech_balloon: | **Fedora** | [Community discussion](https://discussion.fedoraproject.org/t/a-practical-architectural-solution-to-os-level-age-verification-laws/183387) — proposal to make networking an optional patch to avoid triggering regulatory requirements; community raises technical concerns; coordinating cross-distro solutions with openSUSE; no official position adopted |
 | :speech_balloon: | **Debian** | [debian-legal mailing list](https://lists.debian.org/debian-legal/2026/03/msg00022.html) — Adenix GNU/Linux founder (March 4, 2026) states his distros will not implement age checks and requests mechanisms to remove age verification packages and blacklist affected regions (California, Colorado); raises constitutional and free speech concerns; no official Debian project position adopted |
 | :speech_balloon: | **EndeavourOS** | [Developer comment](https://www.gamingonlinux.com/2026/03/endeavouros-titan-released-devs-comment-on-age-verification-laws/) — acknowledge complexity, lack resources for independent compliance; called on OSI, FSF, and Linux Foundation to take a stance |
+| :speech_balloon: | **OpenMandriva** | No official position adopted yet; project is considering multiple approaches to dealing with what they characterize as "stupid, dumb, and evil" age verification laws; opposed to implementation |
 
 ### Operating Systems Which Have Already Implemented Age Verification
 
@@ -69,12 +71,15 @@ Age verification is not limited to full Operating Systems. System-level componen
 | :building_construction: | **AccountsService** | [MR: Add BirthDate with polkit-gated GetBirthDate and SetBirthDate methods](https://gitlab.freedesktop.org/accountsservice/accountsservice/-/merge_requests/176) — stores birth date in `/var/lib/AccountsService/users/`; reading is gated by polkit (`org.freedesktop.accounts.read-own-protected-data`), writing requires `org.freedesktop.accounts.user-administration`; uses same YYYY-MM-DD validation as systemd PR #40954; MR open |
 | :building_construction: | **XDG Desktop Portal** | [Draft PR: Add parental controls to the Accounts portal](https://github.com/flatpak/xdg-desktop-portal/pull/1922) — proposes an age verification API allowing apps to query age ranges rather than exact birth dates; discussion thread locked by maintainers (March 10, 2026), further comments restricted to collaborators only |
 | :building_construction: | **archinstall** | [PR: Add required birth date field to user creation](https://github.com/archlinux/archinstall/pull/4290) — by the same author as the systemd birthDate PR; stores birth date in a systemd userdb drop-in at `/etc/userdb/<user>.user` during Arch installation; PR open but discussion locked as "too heated"; maintainer (Torxed) awaiting an official organizational stance from Arch Linux before merging |
+| :building_construction: | **Pacman** | [Draft MR: Age verification support](https://gitlab.archlinux.org/pacman/pacman/-/merge_requests/353) — draft merge request proposing age verification integration into the Arch Linux package manager; not yet merged |
 
 ### Software Which Has Already Implemented Age Verification
 
 | &nbsp; | Software | Notes |
 | - | - | - |
 | :white_check_mark: | **systemd** | [Merged: Add `birthDate` field to user database records](https://github.com/systemd/systemd/pull/40954) — administrators can store birth dates in user records to support age verification laws (Brazil, California, Colorado); [revert attempt rejected](https://github.com/systemd/systemd/pull/41179) |
+| :no_entry: | **Liberated Systemd** *(systemd fork)* | [Fork of systemd without age verification](https://github.com/Jeffrey-Sardina/systemd) — created in opposition to the merged `birthDate` field; removes age verification functionality from the base |
+| :no_entry: | **dinit** | [Developer discussion](https://github.com/davmac314/dinit/discussions/539) — developer considers age verification irrelevant to the project and is opposed to implementing it |
 
 ---
 
