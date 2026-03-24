@@ -14,6 +14,7 @@ The developers or publishers of these open source Operating Systems have decided
 | - | - | - |
 | :no_entry: | **Omarchy Linux** | [Developer statement](https://x.com/lundukejournal/status/2029580164498108846) |
 | :no_entry: | **Devuan Linux** | [Developer statement](https://x.com/lundukejournal/status/2034697759291310115) |
+| :no_entry: | **Slackware Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036520144239743302) |
 | :no_entry: | **Vendefoul Wolf Linux** | [Developer statement 1](https://x.com/lundukejournal/status/2035390136356077822), [2](https://x.com/vendefoulwolf/status/2035441292520386852) |
 | :no_entry: | **GrapheneOS** | Android-based mobile OS, [Developer statement](https://x.com/lundukejournal/status/2035073741613338964) |
 | :no_entry: | **FreeDOS** | [Developer statement](https://x.com/lundukejournal/status/2034770975309361583) |
@@ -21,6 +22,8 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
 | :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
 | :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://x.com/lundukejournal/status/2032951803134837237) |
+| :no_entry: | **Garuda Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036164910699188456) |
+| :no_entry: | **Void Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036521455752495439) |
 
 ### Operating Systems Planning to Implement Age Verification
 
