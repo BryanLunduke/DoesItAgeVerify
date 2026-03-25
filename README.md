@@ -37,6 +37,19 @@ The developers or publishers of these Open Source Operating Systems have made pl
 | :building_construction: | **Midnight BSD** | [License temporarily forbids usage in Brazil, California](https://github.com/MidnightBSD/src?tab=License-1-ov-file), [until implementation finished](https://x.com/midnightbsd/status/2030992394703732872) |
 | :building_construction: | **Fedora** | [Planning Discussion](https://x.com/LundukeJournal/status/2036526650154729543) |
 
+
 ### Operating Systems Which Have Already Implemented Age Verification
+---
+
+### Init Systems that will not implement age-verification
+| &nbsp; | Init Systems | Notes |
+| - | - | - |
+| :no_entry: | **dinit** | [Developer statement](https://github.com/davmac314/dinit/discussions/539#discussioncomment-16248390) |
+
+### Init Systems that enables age-verification
+| &nbsp; | Init Systems | Notes |
+| - | - | - |
+| :building_construction: | **systemd** | [Merged as of March 18, 2026](https://github.com/systemd/systemd/pull/40954) |
+
 
 As of the most recent update to this document, no known Open Source Operating Systems have fully complied with legal Age Verification requirements for Brazil or California.
