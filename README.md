@@ -24,6 +24,7 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://x.com/lundukejournal/status/2032951803134837237) |
 | :no_entry: | **Garuda Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036164910699188456) |
 | :no_entry: | **Void Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036521455752495439) |
+| :no_entry: | **Adenix Linux** | [Homepage Bottom Banner forbids usages in Age-Verification required regions](https://www.adenixgnulinux.org/) |
 
 ### Operating Systems Planning to Implement Age Verification
 
