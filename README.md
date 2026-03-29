@@ -25,6 +25,7 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **Garuda Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036164910699188456) |
 | :no_entry: | **Void Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036521455752495439) |
 | :no_entry: | **EndeavorOS Linux** | [Developer statement](https://x.com/LundukeJournal/status/2037393956384674196) |
+| :no_entry: | **Zorin OS** | [CEO statement](https://x.com/i/status/2038282756715589738) |
 
 ### Operating Systems Planning to Implement Age Verification
 
