@@ -36,7 +36,6 @@ The developers or publishers of these Open Source Operating Systems have made pl
 | :building_construction: | **Ubuntu** | [Planning Discussion](https://lists.ubuntu.com/archives/ubuntu-devel/2026-March/043510.html), [Ubuntu VP Statement](https://x.com/lundukejournal/status/2029198322309681311) |
 | :building_construction: | **Pop!_OS** | [System76 Statement opposing, but planning to implement](https://blog.system76.com/post/system76-on-age-verification) |
 | :building_construction: | **elementary OS** | [Founder Statement planning to implement](https://mastodon.social/@danirabbit@mastodon.online/116250766314705297) |
-| :building_construction: | **Midnight BSD** | [License temporarily forbids usage in Brazil, California](https://github.com/MidnightBSD/src?tab=License-1-ov-file), [until implementation finished](https://x.com/midnightbsd/status/2030992394703732872) |
 | :building_construction: | **Fedora** | [Planning Discussion](https://x.com/LundukeJournal/status/2036526650154729543) |
 
 ### Uncertain Age Verification Future
@@ -50,4 +49,8 @@ The developers or publishers of these open source Operating Systems have made st
 
 ### Operating Systems Which Have Already Implemented Age Verification
 
-As of the most recent update to this document, no known Open Source Operating Systems have fully complied with legal Age Verification requirements for Brazil or California.
+The following Operating Systems have officially added default Age Verification (or Age Attestation) functionality to their primary released released version.
+
+| &nbsp; | Operating System | Notes |
+| - | - | - |
+| :identification_card: | **Midnight BSD** | [License temporarily forbids usage in Brazil, California](https://x.com/midnightbsd/status/2030992394703732872), [but Age Attestation added by default](https://x.com/LundukeJournal/status/2039377663026926005) |
