@@ -28,6 +28,7 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **EndeavorOS Linux** | [Developer statement](https://x.com/LundukeJournal/status/2037393956384674196) |
 | :no_entry: | **GhostBSD** | [Developer statement](https://x.com/LundukeJournal/status/2039064364712345729) |
 | :no_entry: | **Parrot OS** | [Developer statement](https://x.com/LundukeJournal/status/2040148333185180125) |
+| :no_entry: | **Zorin OS** | [Developer statement](https://forum.zorin.com/t/statement-about-age-verification-laws/61052) |
 
 ### Operating Systems Planning to Implement Age Verification
 
