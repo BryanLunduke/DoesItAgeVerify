@@ -21,6 +21,7 @@ The developers or publishers of these open-source operating systems have decided
 | :no_entry: | **Garuda Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036164910699188456) |
 | :no_entry: | **Omarchy Linux** | [Developer statement](https://x.com/lundukejournal/status/2029580164498108846) |
 | :no_entry: | **OpenMandriva Linux** | [Developer Statement](https://forum.openmandriva.org/t/systemd-adds-age-verification-are-you-serious/8793/75?u=xseagdc) |
+| :no_entry: | **Parrot OS** | [Developer statement](https://x.com/LundukeJournal/status/2040148333185180125) |
 | :no_entry: | **Slackware Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036520144239743302) |
 | :no_entry: | **Vendefoul Wolf Linux** | [Developer statement 1](https://x.com/lundukejournal/status/2035390136356077822), [2](https://x.com/vendefoulwolf/status/2035441292520386852) |
 | :no_entry: | **Void Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036521455752495439) |
@@ -28,7 +29,7 @@ The developers or publishers of these open-source operating systems have decided
 #### BSDs
 | &nbsp; | Operating System | Notes |
 | - | - | - |
-| :no_entry: | **GhostBSD** | [Developer Statement](https://forums.ghostbsd.org/d/793-freebsd-and-age-verification) |
+| :no_entry: | **GhostBSD** | [Developer statement](https://x.com/LundukeJournal/status/2039064364712345729) |
 #### Mobile-Focused Operating Systems
 | &nbsp; | Operating System | Notes |
 | - | - | - |
@@ -37,6 +38,7 @@ The developers or publishers of these open-source operating systems have decided
 #### Other Operating Systems
 | &nbsp; | Operating System | Notes |
 | - | - | - |
+| :no_entry: | **EndeavorOS Linux** | [Developer statement](https://x.com/LundukeJournal/status/2037393956384674196) |
 | :no_entry: | **FreeDOS** | [Developer statement](https://x.com/lundukejournal/status/2034770975309361583) |
 
 ### Operating Systems Planning to Implement Age Verification
@@ -45,8 +47,9 @@ The developers or publishers of these Open Source Operating Systems have made pl
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
+| :building_construction: | **Debian** | [Will help downstream distros to implement](https://x.com/LundukeJournal/status/2040523897431368158) |
 | :building_construction: | **elementary OS** | [Founder Statement planning to implement](https://mastodon.social/@danirabbit@mastodon.online/116250766314705297) |
-| :building_construction: | **Fedora** | [Planning Discussion](https://x.com/LundukeJournal/status/2036526650154729543) 
+| :building_construction: | **Fedora** | [Planning Discussion](https://x.com/LundukeJournal/status/2036526650154729543) |
 | :building_construction: | **Pop!_OS** | [System76 Statement opposing, but planning to implement](https://blog.system76.com/post/system76-on-age-verification) |
 | :building_construction: | **Ubuntu** | [Planning Discussion](https://lists.ubuntu.com/archives/ubuntu-devel/2026-March/043510.html), [Ubuntu VP Statement]|(https://x.com/lundukejournal/status/2029198322309681311) |
 
@@ -58,6 +61,7 @@ The developers or publishers of these open source Operating Systems have made co
 | - | - | - |
 | :question: | **CachyOS** | [Developer statement](https://x.com/LundukeJournal/status/2037217859739542005) |
 | :question: | **MX Linux** | [Developer statement](https://x.com/LundukeJournal/status/2038279978907758664) |
+| :question: | **Solus** | [Developer statement](https://x.com/LundukeJournal/status/2042272320127971604) |
 
 ### Operating Systems Which Have Already Implemented Age Verification
 
