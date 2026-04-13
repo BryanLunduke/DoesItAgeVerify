@@ -38,7 +38,6 @@ The developers or publishers of these open-source operating systems have decided
 #### Other Operating Systems
 | &nbsp; | Operating System | Notes |
 | - | - | - |
-| :no_entry: | **EndeavorOS Linux** | [Developer statement](https://x.com/LundukeJournal/status/2037393956384674196) |
 | :no_entry: | **FreeDOS** | [Developer statement](https://x.com/lundukejournal/status/2034770975309361583) |
 
 ### Operating Systems Planning to Implement Age Verification
