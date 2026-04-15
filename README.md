@@ -17,7 +17,7 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **Omarchy Linux** | [Developer statement](https://x.com/lundukejournal/status/2029580164498108846) |
 | :no_entry: | **Devuan Linux** | [Developer statement](https://x.com/lundukejournal/status/2034697759291310115) |
 | :no_entry: | **Slackware Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036520144239743302) |
-| :no_entry: | **Zorin OS** | [Developer statement](https://x.com/LundukeJournal/status/2038282756715589738) |
+| :no_entry: | **Zorin OS** | [Developer statement](https://forum.zorin.com/t/statement-about-age-verification-laws/61052) |
 | :no_entry: | **Vendefoul Wolf Linux** | [Developer statement 1](https://x.com/lundukejournal/status/2035390136356077822), [2](https://x.com/vendefoulwolf/status/2035441292520386852) |
 | :no_entry: | **GrapheneOS** | Android-based mobile OS, [Developer statement](https://x.com/lundukejournal/status/2035073741613338964) |
 | :no_entry: | **FreeDOS** | [Developer statement](https://x.com/lundukejournal/status/2034770975309361583) |
