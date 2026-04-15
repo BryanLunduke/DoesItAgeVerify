@@ -54,6 +54,18 @@ The developers or publishers of these open source Operating Systems have made st
 | :question: | **Solus** | [Developer statement](https://x.com/LundukeJournal/status/2042272320127971604) |
 
 ### Operating Systems Which Have Already Implemented Age Verification
+---
+
+### Init Systems that will not implement age-verification
+| &nbsp; | Init Systems | Notes |
+| - | - | - |
+| :no_entry: | **dinit** | [Developer statement](https://github.com/davmac314/dinit/discussions/539#discussioncomment-16248390) |
+
+### Init Systems that enables age-verification
+| &nbsp; | Init Systems | Notes |
+| - | - | - |
+| :building_construction: | **systemd** | [Merged as of March 18, 2026](https://github.com/systemd/systemd/pull/40954) |
+
 
 The following Operating Systems have officially added default Age Verification (or Age Attestation) functionality to their primary released released version.
 
