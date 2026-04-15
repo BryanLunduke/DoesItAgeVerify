@@ -4,7 +4,7 @@ There are several locales which have laws (in various stages) which require Oper
 
 Passed OS-Level Age Verification Laws: [Brazil](https://x.com/lundukejournal/status/2033927808196481101), & [California](https://x.com/lundukejournal/status/2026783141298360692).
 
-Proposed OS-Level Age Verification Laws: [Colorado](https://x.com/lundukejournal/status/2026331487499370988), [Illinois](https://x.com/lundukejournal/status/2031047619225493597), & [New York](https://x.com/lundukejournal/status/2029081398577922173).
+Proposed OS-Level Age Verification Laws: [U.S. Federal Law](https://x.com/LundukeJournal/status/2044163936040411388), [Colorado](https://x.com/lundukejournal/status/2026331487499370988), [Illinois](https://x.com/lundukejournal/status/2031047619225493597), & [New York](https://x.com/lundukejournal/status/2029081398577922173).
 
 Withdrawn OS-Level Age Verification Laws: [Michigan](https://x.com/LundukeJournal/status/2043143300756984045)
 
