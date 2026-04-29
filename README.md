@@ -14,22 +14,22 @@ The developers or publishers of these open source Operating Systems have decided
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
-| :no_entry: | **Omarchy Linux** | [Developer statement](https://x.com/lundukejournal/status/2029580164498108846) |
-| :no_entry: | **Devuan Linux** | [Developer statement](https://x.com/lundukejournal/status/2034697759291310115) |
-| :no_entry: | **Slackware Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036520144239743302) |
-| :no_entry: | **Zorin OS** | [Developer statement](https://x.com/LundukeJournal/status/2038282756715589738) |
-| :no_entry: | **Vendefoul Wolf Linux** | [Developer statement 1](https://x.com/lundukejournal/status/2035390136356077822), [2](https://x.com/vendefoulwolf/status/2035441292520386852) |
-| :no_entry: | **GrapheneOS** | Android-based mobile OS, [Developer statement](https://x.com/lundukejournal/status/2035073741613338964) |
-| :no_entry: | **FreeDOS** | [Developer statement](https://x.com/lundukejournal/status/2034770975309361583) |
-| :no_entry: | **Artix Linux** | [Developer statement](https://x.com/lundukejournal/status/2034776326901555488) |
-| :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
-| :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
-| :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://x.com/lundukejournal/status/2032951803134837237) |
-| :no_entry: | **Garuda Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036164910699188456) |
-| :no_entry: | **Void Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036521455752495439) |
-| :no_entry: | **EndeavorOS Linux** | [Developer statement](https://x.com/LundukeJournal/status/2037393956384674196) |
-| :no_entry: | **GhostBSD** | [Developer statement](https://x.com/LundukeJournal/status/2039064364712345729) |
-| :no_entry: | **Parrot OS** | [Developer statement](https://x.com/LundukeJournal/status/2040148333185180125) |
+| :dove: | **Omarchy Linux** | [Developer statement](https://x.com/lundukejournal/status/2029580164498108846) |
+| :dove: | **Devuan Linux** | [Developer statement](https://x.com/lundukejournal/status/2034697759291310115) |
+| :dove: | **Slackware Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036520144239743302) |
+| :dove: | **Zorin OS** | [Developer statement](https://x.com/LundukeJournal/status/2038282756715589738) |
+| :dove: | **Vendefoul Wolf Linux** | [Developer statement 1](https://x.com/lundukejournal/status/2035390136356077822), [2](https://x.com/vendefoulwolf/status/2035441292520386852) |
+| :dove: | **GrapheneOS** | Android-based mobile OS, [Developer statement](https://x.com/lundukejournal/status/2035073741613338964) |
+| :dove: | **FreeDOS** | [Developer statement](https://x.com/lundukejournal/status/2034770975309361583) |
+| :dove: | **Artix Linux** | [Developer statement](https://x.com/lundukejournal/status/2034776326901555488) |
+| :dove: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
+| :dove: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
+| :dove: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://x.com/lundukejournal/status/2032951803134837237) |
+| :dove: | **Garuda Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036164910699188456) |
+| :dove: | **Void Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036521455752495439) |
+| :dove: | **EndeavorOS Linux** | [Developer statement](https://x.com/LundukeJournal/status/2037393956384674196) |
+| :dove: | **GhostBSD** | [Developer statement](https://x.com/LundukeJournal/status/2039064364712345729) |
+| :dove: | **Parrot OS** | [Developer statement](https://x.com/LundukeJournal/status/2040148333185180125) |
 
 ### Operating Systems Planning to Implement Age Verification
 
