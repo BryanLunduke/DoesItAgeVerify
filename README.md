@@ -1,4 +1,6 @@
-This page is a running list of Open Source Operating Systems (Linux & *BSD distributions, etc.) and what their current status is regarding age verification.
+This page is a running list of Operating Systems and what their current status is regarding age verification.
+
+This includes both Closed Source Operating Systems (Microsoft Windows, Apple macOS, etc.) and Open Source Operating Systems (Linux, *BSD, etc.).
 
 There are several locales which have laws (in various stages) which require Operating Systems themselves to perform some level of age verification and reporting.
 
@@ -10,7 +12,7 @@ Withdrawn OS-Level Age Verification Laws: [Michigan](https://x.com/LundukeJourna
 
 ### Operating Systems Not Implementing Age Verification
 
-The developers or publishers of these open source Operating Systems have decided to not implement Age Verification, or are currently restricting access in regions with Age Verification laws.
+The developers or publishers of these Operating Systems have decided to not implement Age Verification, or are currently restricting access in regions with Age Verification laws.
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
@@ -33,10 +35,13 @@ The developers or publishers of these open source Operating Systems have decided
 
 ### Operating Systems Planning to Implement Age Verification
 
-The developers or publishers of these Open Source Operating Systems have made plans and/or statements that they intend to comply with new Age Verification laws.  But, as yet, that Age Verfication functionality is not fully implemented.
+The developers or publishers of these Operating Systems have made plans and/or statements that they intend to comply with new Age Verification laws.  But, as yet, that Age Verfication functionality is not fully implemented.
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
+| :building_construction: | **Microsoft Windows** | [Status](https://x.com/LundukeJournal/status/2068322358914396410) |
+| :building_construction: | **Google Android** | [Status](https://x.com/LundukeJournal/status/2068322358914396410) |
+| :building_construction: | **Google ChromeOS** | [Status](https://x.com/LundukeJournal/status/2068322358914396410) |
 | :building_construction: | **Ubuntu** | [Planning Discussion](https://lists.ubuntu.com/archives/ubuntu-devel/2026-March/043510.html), [Ubuntu VP Statement](https://x.com/lundukejournal/status/2029198322309681311) |
 | :building_construction: | **Pop!_OS** | [System76 Statement opposing, but planning to implement](https://blog.system76.com/post/system76-on-age-verification) |
 | :building_construction: | **elementary OS** | [Founder Statement planning to implement](https://mastodon.social/@danirabbit@mastodon.online/116250766314705297) |
@@ -45,7 +50,7 @@ The developers or publishers of these Open Source Operating Systems have made pl
 
 ### Uncertain Age Verification Future
 
-The developers or publishers of these open source Operating Systems have made statements which are confusing, nebulous, or suggest that they may (or may not) ship with Age Verification in the future.
+The developers or publishers of these Operating Systems have made statements which are confusing, nebulous, or suggest that they may (or may not) ship with Age Verification in the future.
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
@@ -60,4 +65,6 @@ The following Operating Systems have officially added default Age Verification (
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
+| :identification_card: | **Apple macOS** | [Status](https://x.com/LundukeJournal/status/2068322358914396410) |
+| :identification_card: | **Apple iOS** | [Status](https://x.com/LundukeJournal/status/2068322358914396410) |
 | :identification_card: | **Midnight BSD** | [License temporarily forbids usage in Brazil, California](https://x.com/midnightbsd/status/2030992394703732872), [but Age Attestation added by default](https://x.com/LundukeJournal/status/2039377663026926005) |
