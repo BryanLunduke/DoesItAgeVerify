@@ -4,9 +4,9 @@ This includes both Closed Source Operating Systems (Microsoft Windows, Apple mac
 
 There are several locales which have laws (in various stages) which require Operating Systems themselves to perform some level of age verification and reporting.
 
-Passed OS-Level Age Verification Laws: [Brazil](https://x.com/lundukejournal/status/2033927808196481101), [California](https://x.com/lundukejournal/status/2026783141298360692), & [Colorado](https://x.com/LundukeJournal/status/2056398928568885369).
+Passed OS-Level Age Verification Laws: [Brazil](https://x.com/lundukejournal/status/2033927808196481101), [California](https://x.com/lundukejournal/status/2026783141298360692), [Illinois](https://x.com/lundukejournal/status/2084361367901929560?), & [Colorado](https://x.com/LundukeJournal/status/2056398928568885369).
 
-Proposed OS-Level Age Verification Laws: [U.S. Federal Law](https://x.com/LundukeJournal/status/2044163936040411388), [Illinois](https://x.com/lundukejournal/status/2031047619225493597), & [New York](https://x.com/lundukejournal/status/2029081398577922173).
+Proposed OS-Level Age Verification Laws: [U.S. Federal Law](https://x.com/LundukeJournal/status/2044163936040411388), [U.S. Federal Law 2](https://x.com/lundukejournal/status/2084367345884000503), & [New York](https://x.com/lundukejournal/status/2029081398577922173).
 
 Withdrawn OS-Level Age Verification Laws: [Michigan](https://x.com/LundukeJournal/status/2043143300756984045)
 
